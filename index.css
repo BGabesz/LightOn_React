@@ -1,0 +1,10 @@
+.jatekTer{
+  background-color: darkgreen;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: auto;
+  padding: 25px 0px 25px 25px;
+  width: 250px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}

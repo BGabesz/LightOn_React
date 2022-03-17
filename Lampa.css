@@ -1,0 +1,14 @@
+
+.Lampa{
+    border:1px solid lightblue;
+    margin: 3px;
+    border-radius: 25px;
+    width: 50px;
+    height: 50px;
+}
+.szinOn{
+    background-color: brown;
+}
+.szinOff{
+    background-color: chartreuse;
+}
